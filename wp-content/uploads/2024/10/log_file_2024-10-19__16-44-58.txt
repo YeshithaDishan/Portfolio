@@ -1,0 +1,43 @@
+
+---Downloaded files---
+The import files for: Home 2 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/Portfolio
+Data file = C:\xampp\htdocs\Portfolio/wp-content/themes/portm/sample-data/contents-demo.xml
+Widget file = C:\xampp\htdocs\Portfolio/wp-content/themes/portm/sample-data/widget-settings.json
+Customizer file = C:\xampp\htdocs\Portfolio/wp-content/themes/portm/sample-data/customizer-data.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Categories - No Title - Imported
+Tag Cloud - No Title - Imported
+
+Main Footer Style Widget : 
+
+Portm Main Footer Widget - Have a project? - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
