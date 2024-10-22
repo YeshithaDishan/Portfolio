@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: How to design a user-centric mobile application?	</title>
+	<atom:link href="https://yeshithadishan.github.io/Portfolio/how-to-design-a-user-centric-mobile-application/feed/" rel="self" type="application/rss+xml" />
+	<link>https://yeshithadishan.github.io/Portfolio/how-to-design-a-user-centric-mobile-application/</link>
+	<description></description>
+	<lastBuildDate>Fri, 15 Sep 2023 10:49:13 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<item>
+		<title>
+		By: A WordPress Commenter		</title>
+		<link>https://yeshithadishan.github.io/Portfolio/how-to-design-a-user-centric-mobile-application/#comment-2</link>
+
+		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
+		<pubDate>Fri, 15 Sep 2023 10:49:13 +0000</pubDate>
+		<guid isPermaLink="false">https://portm-wp.laralink.site/?p=1#comment-2</guid>
+
+					<description><![CDATA[Hi, this is a comment.
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
+Commenter avatars come from &lt;a href=\&quot;https://en.gravatar.com/\&quot; rel=\&quot;nofollow ugc\&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.<br />
+Commenter avatars come from <a href=\"https://en.gravatar.com/\" rel=\"nofollow ugc\">Gravatar</a>.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

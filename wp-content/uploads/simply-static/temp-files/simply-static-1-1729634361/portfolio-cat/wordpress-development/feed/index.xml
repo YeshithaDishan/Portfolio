@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>WordPress Development &#8211; Yeshitha Dishan</title>
+	<atom:link href="https://yeshithadishan.github.io/Portfolio/portfolio-cat/wordpress-development/feed/" rel="self" type="application/rss+xml" />
+	<link>https://yeshithadishan.github.io/Portfolio</link>
+	<description></description>
+	<lastBuildDate>Mon, 21 Oct 2024 20:53:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://yeshithadishan.github.io/Portfolio/wp-content/uploads/2024/10/Sicon.png</url>
+	<title>WordPress Development &#8211; Yeshitha Dishan</title>
+	<link>https://yeshithadishan.github.io/Portfolio</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ayurveda Project</title>
+		<link>https://yeshithadishan.github.io/Portfolio/portfolio/ayurveda-project/</link>
+		
+		<dc:creator><![CDATA[yeshi04]]></dc:creator>
+		<pubDate>Mon, 21 Oct 2024 20:49:58 +0000</pubDate>
+				<guid isPermaLink="false">https://yeshithadishan.github.io/Portfolio/?post_type=portfolio#038;p=688</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>4BEX Project</title>
+		<link>https://yeshithadishan.github.io/Portfolio/portfolio/4bex-project/</link>
+		
+		<dc:creator><![CDATA[yeshi04]]></dc:creator>
+		<pubDate>Sun, 20 Oct 2024 20:13:56 +0000</pubDate>
+				<guid isPermaLink="false">https://yeshithadishan.github.io/Portfolio/?post_type=portfolio#038;p=436</guid>
+
+					<description><![CDATA[Overview ( Client Project ) I designed and developed the 4BEX website (https://www.mastermindholdings.org/) using WordPress, HTML, CSS, and other technologies. The site is fully responsive, featuring a clean, modern design that enhances user engagement and navigability. I implemented a user-friendly interface while ensuring fast performance and seamless functionality across all devices. &#160;]]></description>
+										<content:encoded><![CDATA[<h2 id="Overview">Overview ( Client Project )</h2>
+<p>I designed and developed the <strong>4BEX</strong> website <strong>(<a href="https://www.mastermindholdings.org/" target="_new" rel="noopener">https://www.mastermindholdings.org/</a>)</strong> using WordPress, HTML, CSS, and other technologies. The site is fully responsive, featuring a clean, modern design that enhances user engagement and navigability. I implemented a user-friendly interface while ensuring fast performance and seamless functionality across all devices.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>TAC Project</title>
+		<link>https://yeshithadishan.github.io/Portfolio/portfolio/tac-project/</link>
+		
+		<dc:creator><![CDATA[yeshi04]]></dc:creator>
+		<pubDate>Sat, 19 Oct 2024 18:44:49 +0000</pubDate>
+				<guid isPermaLink="false">https://yeshithadishan.github.io/Portfolio/?post_type=portfolio#038;p=415</guid>
+
+					<description><![CDATA[Overview ( Client Project ) I designed and developed the TACERS website (https://www.tacers.lk)/ using WordPress, HTML, CSS, and other technologies. The site is fully responsive, featuring a clean, modern design that enhances user engagement and navigability. I implemented a user-friendly interface while ensuring fast performance and seamless functionality across all devices. &#160;]]></description>
+										<content:encoded><![CDATA[<h2 id="Overview">Overview ( Client Project )</h2>
+<p>I designed and developed the <strong>TACERS</strong> website <strong>(<a href="https://www.tacers.lk/" target="_new" rel="noopener">https://www.tacers.lk/</a>)</strong> using WordPress, HTML, CSS, and other technologies. The site is fully responsive, featuring a clean, modern design that enhances user engagement and navigability. I implemented a user-friendly interface while ensuring fast performance and seamless functionality across all devices.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Portfolios &#8211; Yeshitha Dishan</title>
+	<atom:link href="https://yeshithadishan.github.io/Portfolio/portfolio/feed/" rel="self" type="application/rss+xml" />
+	<link>https://yeshithadishan.github.io/Portfolio</link>
+	<description></description>
+	<lastBuildDate>Tue, 22 Oct 2024 20:07:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://yeshithadishan.github.io/Portfolio/wp-content/uploads/2024/10/Sicon.png</url>
+	<title>Portfolios &#8211; Yeshitha Dishan</title>
+	<link>https://yeshithadishan.github.io/Portfolio</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ayurveda Project</title>
+		<link>https://yeshithadishan.github.io/Portfolio/portfolio/ayurveda-project/</link>
+		
+		<dc:creator><![CDATA[yeshi04]]></dc:creator>
+		<pubDate>Mon, 21 Oct 2024 20:49:58 +0000</pubDate>
+				<guid isPermaLink="false">https://yeshithadishan.github.io/Portfolio/?post_type=portfolio#038;p=688</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>RVRA UI/UX</title>
+		<link>https://yeshithadishan.github.io/Portfolio/portfolio/rvra-ui-ux/</link>
+		
+		<dc:creator><![CDATA[yeshi04]]></dc:creator>
+		<pubDate>Mon, 21 Oct 2024 10:54:27 +0000</pubDate>
+				<guid isPermaLink="false">https://yeshithadishan.github.io/Portfolio/?post_type=portfolio#038;p=494</guid>
+
+					<description><![CDATA[Overview I designed and developed the TACERS website (https://www.tacers.lk)/ using WordPress, HTML, CSS, and other technologies. The site is fully responsive, featuring a clean, modern design that enhances user engagement and navigability. I implemented a user-friendly interface while ensuring fast performance and seamless functionality across all devices.]]></description>
+										<content:encoded><![CDATA[<h2 id="Overview">Overview</h2>
+<p>I designed and developed the <strong>TACERS</strong> website <strong>(<a href="https://www.tacers.lk/" target="_new" rel="noopener">https://www.tacers.lk/</a>)</strong> using WordPress, HTML, CSS, and other technologies. The site is fully responsive, featuring a clean, modern design that enhances user engagement and navigability. I implemented a user-friendly interface while ensuring fast performance and seamless functionality across all devices.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>RVRA System</title>
+		<link>https://yeshithadishan.github.io/Portfolio/portfolio/rvra-system/</link>
+		
+		<dc:creator><![CDATA[yeshi04]]></dc:creator>
+		<pubDate>Mon, 21 Oct 2024 10:29:04 +0000</pubDate>
+				<guid isPermaLink="false">https://yeshithadishan.github.io/Portfolio/?post_type=portfolio#038;p=479</guid>
+
+					<description><![CDATA[Overview The Roadside Vehicle Recovery Assistance System is a specialized service that supports drivers, particularly luxury vehicle owners, during breakdowns or accidents. It ensures safety, minimizes disruptions, and provides swift recovery through trained professionals and advanced tools. Key features include: AI Assistance Find Mechanics Spare Parts Shop Tow Truck Services Using Technologies: Frontend &#8211; HTML, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2 id="Overview">Overview</h2>
+<p>The <strong>Roadside Vehicle Recovery Assistance System</strong> is a specialized service that supports drivers, particularly luxury vehicle owners, during breakdowns or accidents. It ensures safety, minimizes disruptions, and provides swift recovery through trained professionals and advanced tools.</p>
+<h5>Key features include:</h5>
+<ul>
+<li>
+<p class="card-title">AI Assistance</p>
+</li>
+<li>
+<p class="card-title">Find Mechanics</p>
+</li>
+<li>
+<p class="card-title">Spare Parts Shop</p>
+</li>
+<li>
+<p class="card-title">Tow Truck Services</p>
+</li>
+</ul>
+<h5>Using Technologies:</h5>
+<ul>
+<li>Frontend &#8211; HTML, CSS, JavaScript, Bootstrap</li>
+<li>Backend &#8211; PHP, MYSQL</li>
+</ul>
+<h5>Website Screenshots:</h5>
+<ul>
+<li>Link &#8211; <a href="https://drive.google.com/drive/folders/1AmvahRHpXtrnZh8c_5cmWnwJRGz9q4IW?usp=sharing">RVRA System</a></li>
+</ul>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>4BEX Project</title>
+		<link>https://yeshithadishan.github.io/Portfolio/portfolio/4bex-project/</link>
+		
+		<dc:creator><![CDATA[yeshi04]]></dc:creator>
+		<pubDate>Sun, 20 Oct 2024 20:13:56 +0000</pubDate>
+				<guid isPermaLink="false">https://yeshithadishan.github.io/Portfolio/?post_type=portfolio#038;p=436</guid>
+
+					<description><![CDATA[Overview ( Client Project ) I designed and developed the 4BEX website (https://www.mastermindholdings.org/) using WordPress, HTML, CSS, and other technologies. The site is fully responsive, featuring a clean, modern design that enhances user engagement and navigability. I implemented a user-friendly interface while ensuring fast performance and seamless functionality across all devices. &#160;]]></description>
+										<content:encoded><![CDATA[<h2 id="Overview">Overview ( Client Project )</h2>
+<p>I designed and developed the <strong>4BEX</strong> website <strong>(<a href="https://www.mastermindholdings.org/" target="_new" rel="noopener">https://www.mastermindholdings.org/</a>)</strong> using WordPress, HTML, CSS, and other technologies. The site is fully responsive, featuring a clean, modern design that enhances user engagement and navigability. I implemented a user-friendly interface while ensuring fast performance and seamless functionality across all devices.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>TAC Project</title>
+		<link>https://yeshithadishan.github.io/Portfolio/portfolio/tac-project/</link>
+		
+		<dc:creator><![CDATA[yeshi04]]></dc:creator>
+		<pubDate>Sat, 19 Oct 2024 18:44:49 +0000</pubDate>
+				<guid isPermaLink="false">https://yeshithadishan.github.io/Portfolio/?post_type=portfolio#038;p=415</guid>
+
+					<description><![CDATA[Overview ( Client Project ) I designed and developed the TACERS website (https://www.tacers.lk)/ using WordPress, HTML, CSS, and other technologies. The site is fully responsive, featuring a clean, modern design that enhances user engagement and navigability. I implemented a user-friendly interface while ensuring fast performance and seamless functionality across all devices. &#160;]]></description>
+										<content:encoded><![CDATA[<h2 id="Overview">Overview ( Client Project )</h2>
+<p>I designed and developed the <strong>TACERS</strong> website <strong>(<a href="https://www.tacers.lk/" target="_new" rel="noopener">https://www.tacers.lk/</a>)</strong> using WordPress, HTML, CSS, and other technologies. The site is fully responsive, featuring a clean, modern design that enhances user engagement and navigability. I implemented a user-friendly interface while ensuring fast performance and seamless functionality across all devices.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Fitst Project</title>
+		<link>https://yeshithadishan.github.io/Portfolio/portfolio/fitst-project/</link>
+		
+		<dc:creator><![CDATA[yeshi04]]></dc:creator>
+		<pubDate>Sat, 19 Oct 2024 11:59:14 +0000</pubDate>
+				<guid isPermaLink="false">https://portm-wp.laralink.site/?post_type=portfolio&#038;p=68</guid>
+
+					<description><![CDATA[Share: Overview Project Challenge Design Research Design Approach The Solutions Overview I designed and developed the TACERS website (https://www.tacers.lk)/ using WordPress, HTML, CSS, and other technologies. The site is fully responsive, featuring a clean, modern design that enhances user engagement and navigability. I implemented a user-friendly interface while ensuring fast performance and seamless functionality across [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="68" class="elementor elementor-68">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-931b4ad elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="931b4ad" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1d55fdb" data-id="1d55fdb" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e7d094d elementor-widget elementor-widget-tg-portfolio-details" data-id="e7d094d" data-element_type="widget" data-widget_type="tg-portfolio-details.default">
+				<div class="elementor-widget-container">
+			
+    <!--Start Postfolio Details Section-->
+    <section>
+        <div class="row">
+          <div class="col-lg-3">
+            <div class="cs_category cs_style_2 cs_white_bg cs_radius_10">
+              <div class="cs_social cs_style_1 d-flex align-items-center cs_gap_25">
+                <div class="cs_social_title cs_font_20 cs_semi_bold">Share:</div>
+                <div class="cs_social_wrap d-flex cs_gap_15">
+                  <a href="https://www.facebook.com/sharer/sharer.php?u=https://yeshithadishan.github.io/Portfolio/portfolio/fitst-project/"><svg width="9" height="16" viewBox="0 0 9 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M8.00781 9L8.45219 6.10437H5.67375V4.22531C5.67375 3.43313 6.06188 2.66094 7.30625 2.66094H8.56937V0.195625C8.56937 0.195625 7.42313 0 6.32719 0C4.03906 0 2.54344 1.38688 2.54344 3.8975V6.10437H0V9H2.54344V16H5.67375V9H8.00781Z" fill="#1B74E4"/>
+                    </svg>
+                    </a>
+                  <a href="https://twitter.com/home?status=https://yeshithadishan.github.io/Portfolio/portfolio/fitst-project/"><svg width="19" height="15" viewBox="0 0 19 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M18.4588 1.76471C17.7794 2.07353 17.0471 2.27647 16.2882 2.37353C17.0647 1.90588 17.6647 1.16471 17.9471 0.273529C17.2147 0.714706 16.4029 1.02353 15.5471 1.2C14.85 0.441177 13.8706 0 12.7588 0C10.6853 0 8.99118 1.69412 8.99118 3.78529C8.99118 4.08529 9.02647 4.37647 9.08823 4.65C5.94706 4.49118 3.15 2.98235 1.28824 0.697059C0.961765 1.25294 0.776471 1.90588 0.776471 2.59412C0.776471 3.90882 1.43824 5.07353 2.46176 5.73529C1.83529 5.73529 1.25294 5.55882 0.741177 5.29412C0.741177 5.29412 0.741177 5.29412 0.741177 5.32059C0.741177 7.15588 2.04706 8.69118 3.77647 9.03529C3.45882 9.12353 3.12353 9.16765 2.77941 9.16765C2.54118 9.16765 2.30294 9.14118 2.07353 9.09706C2.55 10.5882 3.93529 11.7 5.60294 11.7265C4.31471 12.75 2.68235 13.35 0.9 13.35C0.6 13.35 0.3 13.3324 0 13.2971C1.67647 14.3735 3.67059 15 5.80588 15C12.7588 15 16.5794 9.22941 16.5794 4.22647C16.5794 4.05882 16.5794 3.9 16.5706 3.73235C17.3118 3.20294 17.9471 2.53235 18.4588 1.76471Z" fill="#1D9BF0"/>
+                    </svg>                    
+                    </a>
+                  <a href="http://www.linkedin.com/shareArticle?mini=true&url=https://yeshithadishan.github.io/Portfolio/portfolio/fitst-project/"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M3.58151 16H0.264292V5.31762H3.58151V16ZM1.92111 3.86044C0.860376 3.86044 0 2.98185 0 1.92111C7.59231e-09 1.4116 0.202402 0.92296 0.562681 0.562681C0.92296 0.202403 1.4116 0 1.92111 0C2.43062 0 2.91927 0.202403 3.27955 0.562681C3.63982 0.92296 3.84223 1.4116 3.84223 1.92111C3.84223 2.98185 2.98149 3.86044 1.92111 3.86044ZM15.9968 16H12.6867V10.7999C12.6867 9.56057 12.6617 7.97125 10.962 7.97125C9.23735 7.97125 8.97305 9.31771 8.97305 10.7106V16H5.65941V5.31762H8.84091V6.77479H8.88734C9.3302 5.93549 10.412 5.04976 12.026 5.04976C15.3832 5.04976 16.0004 7.26052 16.0004 10.132V16H15.9968Z" fill="#0A66C2"/>
+                    </svg>                    
+                    </a>
+                </div>
+              </div>
+              <ul class="cs_mp_0">
+                                    <li class="active"><a href="#Overview">Overview</a></li>
+                                                    <li><a href="#Project_Challenge">Project Challenge</a></li>
+                                                    <li><a href="#Design_Research">Design Research</a></li>
+                                             
+                    <li><a href="#Design_Approach">Design Approach</a></li>
+                                  
+                    <li><a href="#The_Solutions">The Solutions</a></li>
+                              </ul>
+            </div>
+            <div class="cs_height_lg_30"></div>
+          </div>
+          <div class="col-lg-9">
+            <div class="cs_pl_70">
+              <div class="cs_portfoli_details cs_style_1">
+                                <h2 id='Overview' class="cs_portfolio_title cs_font_48">Overview</h2>
+                                                <p class="cs_portfolio_text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>
+                                <div class="cs_portfolio_details_wrap row">
+                                                          <div class="col-md-4">
+                        <h4 class="cs_font_20 m-0">Stratagy</h4>
+                                                <p class="m-0">Company Branding, UX Strategy</p>
+                                              </div>
+                                                                                <div class="col-md-4">
+                        <h4 class="cs_font_20 m-0">Project Type</h4>
+                                                <p class="m-0">UI/UX Design, Motion Design</p>
+                                              </div>
+                                                                                <div class="col-md-4">
+                        <h4 class="cs_font_20 m-0">Client</h4>
+                                                <p class="m-0">Envato Elements, Development, Branding</p>
+                                              </div>
+                                                      </div>
+                                <img decoding="async" class="cs_protfolio_image w-100 cs_radius_10" src="https://yeshithadishan.github.io/Portfolio/wp-content/uploads/2023/09/pd2.jpg" alt="">
+                
+                                <h4 id='Project_Challenge' class="cs_portfolio_title">Project Challenge</h4>
+                
+                
+                                <p class="cs_portfolio_text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>
+                
+                                <h4 id='Design_Research' class="cs_portfolio_title">Design Research</h4>
+                
+                
+                                <p class="cs_portfolio_text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>
+                
+                                <h4 id='Design_Approach' class="cs_portfolio_title">Design Approach</h4>
+                
+                
+                                <p class="cs_portfolio_text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>
+                
+                                <h4 id='The_Solutions' class="cs_portfolio_title">The Solutions</h4>
+                
+                                
+                                <p class="cs_portfolio_text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+      <div class="cs_height_145 cs_height_lg_75"></div>
+    </section>
+    <!--End Postfolio Details Section-->
+
+
+    		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Third Project</title>
+		<link>https://yeshithadishan.github.io/Portfolio/portfolio/third-project/</link>
+		
+		<dc:creator><![CDATA[yeshi04]]></dc:creator>
+		<pubDate>Fri, 15 Sep 2023 11:03:53 +0000</pubDate>
+				<guid isPermaLink="false">https://portm-wp.laralink.site/?post_type=portfolio&#038;p=71</guid>
+
+					<description><![CDATA[Share: Overview Project Challenge Design Research Design Approach The Solutions Overview Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Stratagy Company Branding, UX Strategy Project Type [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="71" class="elementor elementor-71">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-f00c2e7 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="f00c2e7" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b4f79df" data-id="b4f79df" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-c7aefd2 elementor-widget elementor-widget-tg-portfolio-details" data-id="c7aefd2" data-element_type="widget" data-widget_type="tg-portfolio-details.default">
+				<div class="elementor-widget-container">
+			
+    <!--Start Postfolio Details Section-->
+    <section>
+        <div class="row">
+          <div class="col-lg-3">
+            <div class="cs_category cs_style_2 cs_white_bg cs_radius_10">
+              <div class="cs_social cs_style_1 d-flex align-items-center cs_gap_25">
+                <div class="cs_social_title cs_font_20 cs_semi_bold">Share:</div>
+                <div class="cs_social_wrap d-flex cs_gap_15">
+                  <a href="https://www.facebook.com/sharer/sharer.php?u=https://yeshithadishan.github.io/Portfolio/portfolio/third-project/"><svg width="9" height="16" viewBox="0 0 9 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M8.00781 9L8.45219 6.10437H5.67375V4.22531C5.67375 3.43313 6.06188 2.66094 7.30625 2.66094H8.56937V0.195625C8.56937 0.195625 7.42313 0 6.32719 0C4.03906 0 2.54344 1.38688 2.54344 3.8975V6.10437H0V9H2.54344V16H5.67375V9H8.00781Z" fill="#1B74E4"/>
+                    </svg>
+                    </a>
+                  <a href="https://twitter.com/home?status=https://yeshithadishan.github.io/Portfolio/portfolio/third-project/"><svg width="19" height="15" viewBox="0 0 19 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M18.4588 1.76471C17.7794 2.07353 17.0471 2.27647 16.2882 2.37353C17.0647 1.90588 17.6647 1.16471 17.9471 0.273529C17.2147 0.714706 16.4029 1.02353 15.5471 1.2C14.85 0.441177 13.8706 0 12.7588 0C10.6853 0 8.99118 1.69412 8.99118 3.78529C8.99118 4.08529 9.02647 4.37647 9.08823 4.65C5.94706 4.49118 3.15 2.98235 1.28824 0.697059C0.961765 1.25294 0.776471 1.90588 0.776471 2.59412C0.776471 3.90882 1.43824 5.07353 2.46176 5.73529C1.83529 5.73529 1.25294 5.55882 0.741177 5.29412C0.741177 5.29412 0.741177 5.29412 0.741177 5.32059C0.741177 7.15588 2.04706 8.69118 3.77647 9.03529C3.45882 9.12353 3.12353 9.16765 2.77941 9.16765C2.54118 9.16765 2.30294 9.14118 2.07353 9.09706C2.55 10.5882 3.93529 11.7 5.60294 11.7265C4.31471 12.75 2.68235 13.35 0.9 13.35C0.6 13.35 0.3 13.3324 0 13.2971C1.67647 14.3735 3.67059 15 5.80588 15C12.7588 15 16.5794 9.22941 16.5794 4.22647C16.5794 4.05882 16.5794 3.9 16.5706 3.73235C17.3118 3.20294 17.9471 2.53235 18.4588 1.76471Z" fill="#1D9BF0"/>
+                    </svg>                    
+                    </a>
+                  <a href="http://www.linkedin.com/shareArticle?mini=true&url=https://yeshithadishan.github.io/Portfolio/portfolio/third-project/"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M3.58151 16H0.264292V5.31762H3.58151V16ZM1.92111 3.86044C0.860376 3.86044 0 2.98185 0 1.92111C7.59231e-09 1.4116 0.202402 0.92296 0.562681 0.562681C0.92296 0.202403 1.4116 0 1.92111 0C2.43062 0 2.91927 0.202403 3.27955 0.562681C3.63982 0.92296 3.84223 1.4116 3.84223 1.92111C3.84223 2.98185 2.98149 3.86044 1.92111 3.86044ZM15.9968 16H12.6867V10.7999C12.6867 9.56057 12.6617 7.97125 10.962 7.97125C9.23735 7.97125 8.97305 9.31771 8.97305 10.7106V16H5.65941V5.31762H8.84091V6.77479H8.88734C9.3302 5.93549 10.412 5.04976 12.026 5.04976C15.3832 5.04976 16.0004 7.26052 16.0004 10.132V16H15.9968Z" fill="#0A66C2"/>
+                    </svg>                    
+                    </a>
+                </div>
+              </div>
+              <ul class="cs_mp_0">
+                                    <li class="active"><a href="#Overview">Overview</a></li>
+                                                    <li><a href="#Project_Challenge">Project Challenge</a></li>
+                                                    <li><a href="#Design_Research">Design Research</a></li>
+                                             
+                    <li><a href="#Design_Approach">Design Approach</a></li>
+                                  
+                    <li><a href="#The_Solutions">The Solutions</a></li>
+                              </ul>
+            </div>
+            <div class="cs_height_lg_30"></div>
+          </div>
+          <div class="col-lg-9">
+            <div class="cs_pl_70">
+              <div class="cs_portfoli_details cs_style_1">
+                                <h2 id='Overview' class="cs_portfolio_title cs_font_48">Overview</h2>
+                                                <p class="cs_portfolio_text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>
+                                <div class="cs_portfolio_details_wrap row">
+                                                          <div class="col-md-4">
+                        <h4 class="cs_font_20 m-0">Stratagy</h4>
+                                                <p class="m-0">Company Branding, UX Strategy</p>
+                                              </div>
+                                                                                <div class="col-md-4">
+                        <h4 class="cs_font_20 m-0">Project Type</h4>
+                                                <p class="m-0">UI/UX Design, Motion Design</p>
+                                              </div>
+                                                                                <div class="col-md-4">
+                        <h4 class="cs_font_20 m-0">Client</h4>
+                                                <p class="m-0">Envato Elements, Development, Branding</p>
+                                              </div>
+                                                      </div>
+                                <img decoding="async" class="cs_protfolio_image w-100 cs_radius_10" src="https://yeshithadishan.github.io/Portfolio/wp-content/uploads/2023/09/pd2.jpg" alt="">
+                
+                                <h4 id='Project_Challenge' class="cs_portfolio_title">Project Challenge</h4>
+                
+                
+                                <p class="cs_portfolio_text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>
+                
+                                <h4 id='Design_Research' class="cs_portfolio_title">Design Research</h4>
+                
+                
+                                <p class="cs_portfolio_text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>
+                
+                                <h4 id='Design_Approach' class="cs_portfolio_title">Design Approach</h4>
+                
+                
+                                <p class="cs_portfolio_text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>
+                
+                                <h4 id='The_Solutions' class="cs_portfolio_title">The Solutions</h4>
+                
+                                
+                                <p class="cs_portfolio_text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+      <div class="cs_height_145 cs_height_lg_75"></div>
+    </section>
+    <!--End Postfolio Details Section-->
+
+
+    		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Second Project</title>
+		<link>https://yeshithadishan.github.io/Portfolio/portfolio/second-project/</link>
+		
+		<dc:creator><![CDATA[yeshi04]]></dc:creator>
+		<pubDate>Fri, 15 Sep 2023 11:03:39 +0000</pubDate>
+				<guid isPermaLink="false">https://portm-wp.laralink.site/?post_type=portfolio&#038;p=70</guid>
+
+					<description><![CDATA[Share: Overview Project Challenge Design Research Design Approach The Solutions Overview Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Stratagy Company Branding, UX Strategy Project Type [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="70" class="elementor elementor-70">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-babf65a elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="babf65a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3cc656a" data-id="3cc656a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-ea0f8cd elementor-widget elementor-widget-tg-portfolio-details" data-id="ea0f8cd" data-element_type="widget" data-widget_type="tg-portfolio-details.default">
+				<div class="elementor-widget-container">
+			
+    <!--Start Postfolio Details Section-->
+    <section>
+        <div class="row">
+          <div class="col-lg-3">
+            <div class="cs_category cs_style_2 cs_white_bg cs_radius_10">
+              <div class="cs_social cs_style_1 d-flex align-items-center cs_gap_25">
+                <div class="cs_social_title cs_font_20 cs_semi_bold">Share:</div>
+                <div class="cs_social_wrap d-flex cs_gap_15">
+                  <a href="https://www.facebook.com/sharer/sharer.php?u=https://yeshithadishan.github.io/Portfolio/portfolio/second-project/"><svg width="9" height="16" viewBox="0 0 9 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M8.00781 9L8.45219 6.10437H5.67375V4.22531C5.67375 3.43313 6.06188 2.66094 7.30625 2.66094H8.56937V0.195625C8.56937 0.195625 7.42313 0 6.32719 0C4.03906 0 2.54344 1.38688 2.54344 3.8975V6.10437H0V9H2.54344V16H5.67375V9H8.00781Z" fill="#1B74E4"/>
+                    </svg>
+                    </a>
+                  <a href="https://twitter.com/home?status=https://yeshithadishan.github.io/Portfolio/portfolio/second-project/"><svg width="19" height="15" viewBox="0 0 19 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M18.4588 1.76471C17.7794 2.07353 17.0471 2.27647 16.2882 2.37353C17.0647 1.90588 17.6647 1.16471 17.9471 0.273529C17.2147 0.714706 16.4029 1.02353 15.5471 1.2C14.85 0.441177 13.8706 0 12.7588 0C10.6853 0 8.99118 1.69412 8.99118 3.78529C8.99118 4.08529 9.02647 4.37647 9.08823 4.65C5.94706 4.49118 3.15 2.98235 1.28824 0.697059C0.961765 1.25294 0.776471 1.90588 0.776471 2.59412C0.776471 3.90882 1.43824 5.07353 2.46176 5.73529C1.83529 5.73529 1.25294 5.55882 0.741177 5.29412C0.741177 5.29412 0.741177 5.29412 0.741177 5.32059C0.741177 7.15588 2.04706 8.69118 3.77647 9.03529C3.45882 9.12353 3.12353 9.16765 2.77941 9.16765C2.54118 9.16765 2.30294 9.14118 2.07353 9.09706C2.55 10.5882 3.93529 11.7 5.60294 11.7265C4.31471 12.75 2.68235 13.35 0.9 13.35C0.6 13.35 0.3 13.3324 0 13.2971C1.67647 14.3735 3.67059 15 5.80588 15C12.7588 15 16.5794 9.22941 16.5794 4.22647C16.5794 4.05882 16.5794 3.9 16.5706 3.73235C17.3118 3.20294 17.9471 2.53235 18.4588 1.76471Z" fill="#1D9BF0"/>
+                    </svg>                    
+                    </a>
+                  <a href="http://www.linkedin.com/shareArticle?mini=true&url=https://yeshithadishan.github.io/Portfolio/portfolio/second-project/"><svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M3.58151 16H0.264292V5.31762H3.58151V16ZM1.92111 3.86044C0.860376 3.86044 0 2.98185 0 1.92111C7.59231e-09 1.4116 0.202402 0.92296 0.562681 0.562681C0.92296 0.202403 1.4116 0 1.92111 0C2.43062 0 2.91927 0.202403 3.27955 0.562681C3.63982 0.92296 3.84223 1.4116 3.84223 1.92111C3.84223 2.98185 2.98149 3.86044 1.92111 3.86044ZM15.9968 16H12.6867V10.7999C12.6867 9.56057 12.6617 7.97125 10.962 7.97125C9.23735 7.97125 8.97305 9.31771 8.97305 10.7106V16H5.65941V5.31762H8.84091V6.77479H8.88734C9.3302 5.93549 10.412 5.04976 12.026 5.04976C15.3832 5.04976 16.0004 7.26052 16.0004 10.132V16H15.9968Z" fill="#0A66C2"/>
+                    </svg>                    
+                    </a>
+                </div>
+              </div>
+              <ul class="cs_mp_0">
+                                    <li class="active"><a href="#Overview">Overview</a></li>
+                                                    <li><a href="#Project_Challenge">Project Challenge</a></li>
+                                                    <li><a href="#Design_Research">Design Research</a></li>
+                                             
+                    <li><a href="#Design_Approach">Design Approach</a></li>
+                                  
+                    <li><a href="#The_Solutions">The Solutions</a></li>
+                              </ul>
+            </div>
+            <div class="cs_height_lg_30"></div>
+          </div>
+          <div class="col-lg-9">
+            <div class="cs_pl_70">
+              <div class="cs_portfoli_details cs_style_1">
+                                <h2 id='Overview' class="cs_portfolio_title cs_font_48">Overview</h2>
+                                                <p class="cs_portfolio_text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>
+                                <div class="cs_portfolio_details_wrap row">
+                                                          <div class="col-md-4">
+                        <h4 class="cs_font_20 m-0">Stratagy</h4>
+                                                <p class="m-0">Company Branding, UX Strategy</p>
+                                              </div>
+                                                                                <div class="col-md-4">
+                        <h4 class="cs_font_20 m-0">Project Type</h4>
+                                                <p class="m-0">UI/UX Design, Motion Design</p>
+                                              </div>
+                                                                                <div class="col-md-4">
+                        <h4 class="cs_font_20 m-0">Client</h4>
+                                                <p class="m-0">Envato Elements, Development, Branding</p>
+                                              </div>
+                                                      </div>
+                                <img decoding="async" class="cs_protfolio_image w-100 cs_radius_10" src="https://yeshithadishan.github.io/Portfolio/wp-content/uploads/2023/09/pd2.jpg" alt="">
+                
+                                <h4 id='Project_Challenge' class="cs_portfolio_title">Project Challenge</h4>
+                
+                
+                                <p class="cs_portfolio_text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>
+                
+                                <h4 id='Design_Research' class="cs_portfolio_title">Design Research</h4>
+                
+                
+                                <p class="cs_portfolio_text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>
+                
+                                <h4 id='Design_Approach' class="cs_portfolio_title">Design Approach</h4>
+                
+                
+                                <p class="cs_portfolio_text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>
+                
+                                <h4 id='The_Solutions' class="cs_portfolio_title">The Solutions</h4>
+                
+                                
+                                <p class="cs_portfolio_text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.</p>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+      <div class="cs_height_145 cs_height_lg_75"></div>
+    </section>
+    <!--End Postfolio Details Section-->
+
+
+    		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

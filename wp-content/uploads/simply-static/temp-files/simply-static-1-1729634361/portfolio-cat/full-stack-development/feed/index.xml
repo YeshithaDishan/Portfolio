@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Full-Stack Development &#8211; Yeshitha Dishan</title>
+	<atom:link href="https://yeshithadishan.github.io/Portfolio/portfolio-cat/full-stack-development/feed/" rel="self" type="application/rss+xml" />
+	<link>https://yeshithadishan.github.io/Portfolio</link>
+	<description></description>
+	<lastBuildDate>Tue, 22 Oct 2024 20:07:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://yeshithadishan.github.io/Portfolio/wp-content/uploads/2024/10/Sicon.png</url>
+	<title>Full-Stack Development &#8211; Yeshitha Dishan</title>
+	<link>https://yeshithadishan.github.io/Portfolio</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>RVRA System</title>
+		<link>https://yeshithadishan.github.io/Portfolio/portfolio/rvra-system/</link>
+		
+		<dc:creator><![CDATA[yeshi04]]></dc:creator>
+		<pubDate>Mon, 21 Oct 2024 10:29:04 +0000</pubDate>
+				<guid isPermaLink="false">https://yeshithadishan.github.io/Portfolio/?post_type=portfolio#038;p=479</guid>
+
+					<description><![CDATA[Overview The Roadside Vehicle Recovery Assistance System is a specialized service that supports drivers, particularly luxury vehicle owners, during breakdowns or accidents. It ensures safety, minimizes disruptions, and provides swift recovery through trained professionals and advanced tools. Key features include: AI Assistance Find Mechanics Spare Parts Shop Tow Truck Services Using Technologies: Frontend &#8211; HTML, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2 id="Overview">Overview</h2>
+<p>The <strong>Roadside Vehicle Recovery Assistance System</strong> is a specialized service that supports drivers, particularly luxury vehicle owners, during breakdowns or accidents. It ensures safety, minimizes disruptions, and provides swift recovery through trained professionals and advanced tools.</p>
+<h5>Key features include:</h5>
+<ul>
+<li>
+<p class="card-title">AI Assistance</p>
+</li>
+<li>
+<p class="card-title">Find Mechanics</p>
+</li>
+<li>
+<p class="card-title">Spare Parts Shop</p>
+</li>
+<li>
+<p class="card-title">Tow Truck Services</p>
+</li>
+</ul>
+<h5>Using Technologies:</h5>
+<ul>
+<li>Frontend &#8211; HTML, CSS, JavaScript, Bootstrap</li>
+<li>Backend &#8211; PHP, MYSQL</li>
+</ul>
+<h5>Website Screenshots:</h5>
+<ul>
+<li>Link &#8211; <a href="https://drive.google.com/drive/folders/1AmvahRHpXtrnZh8c_5cmWnwJRGz9q4IW?usp=sharing">RVRA System</a></li>
+</ul>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
